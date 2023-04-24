@@ -1,1 +1,1 @@
-# Memorandum for using with websockets in python
+# Memorandum for using with sockets in python
